@@ -1,5 +1,3 @@
-# 66133391-JavaProgramming
+Xin chao toi la Nguyen Tuan Thanh k66 CNTT-2.
 
-Lưu các bài tập thực hành, bài tập, dự án trong học tập lập trình Java
-
-Tôi là Nguyễn Tuấn Thanh, tôi vừa mới bắt đầu học lập trình Java. Bạn cùng tôi học nhé !
+Day la noi toi luu tru cac du an va bai tap thuc hanh.
