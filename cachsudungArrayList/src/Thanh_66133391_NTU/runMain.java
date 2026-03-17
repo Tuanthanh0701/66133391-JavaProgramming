@@ -30,6 +30,19 @@ public class runMain {
 		System.out.print(x + " ");
 	}
 	
+	// c.Dem so phan tu chan
+	int soLuongPTchan=0;
+	for(Integer x: dsSoNguyen) {
+		if(x % 2 == 0) soLuongPTchan=soLuongPTchan+1;
+	}
+	System.out.println("\nSo luong phan tu chan la: " + soLuongPTchan);
+	
+	// d.Tinh tong cac pahn tu
+	int TongALL=0;
+	for(Integer x: dsSoNguyen) {
+		TongALL = TongALL +x;
+	}
+	System.out.println("Tong tat ca cac phan tu la: " + TongALL);
 	
 		}		
 	}
